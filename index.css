@@ -1,0 +1,60 @@
+body {
+    background-image: url("https://tb-static.uber.com/prod/image-proc/processed_images/c632660188bdfeaba319cc53db595ff7/16bb0a3ab8ea98cfe8906135767f7bf4.jpeg");
+    background-size: cover;
+    font-family:'Dancing Script', cursive;
+    font-weight: bold;
+    text-align: center;
+    min-height: 100vh;
+}
+#bod {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: pink;
+    padding: 15px;
+    border-radius: 20px;
+    
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    background: pink;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-weight: bold;
+    width: 300px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+}
+
+#increment-btn {
+    background: darkorchid
+}
+
+#save-btn {
+    background: darkred;
+}
+p {
+    font-size: 30px;
+    background: pink;
+    padding: 15px;
+    border-radius: 20px;
+    
+}
+
+
